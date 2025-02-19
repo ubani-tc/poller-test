@@ -155,25 +155,6 @@ class IntegrationGatewayController extends Controller
                     "PART_TRAN_SRL_NUM" => " 2",
                     "INSTRMNT_NUM" => null,
                     "GL_DATE" => "2025-02-19T00:00:00"
-                ],
-                [
-                    "ACCOUNTNAME" => "FINCRA COLLECTION ACCOUNT",
-                    "RCRE_TIME" => "2025-02-18T23:16:54",
-                    "LCHG_TIME" => "2025-02-18T23:16:54",
-                    "VFD_DATE" => "2025-02-18T23:16:54",
-                    "PSTD_DATE" => "2025-02-18T23:16:54",
-                    "ENTRY_DATE" => "2025-02-18T23:16:54",
-                    "TRAN_DATE" => "2025-02-19T00:00:00",
-                    "VALUE_DATE" => "2025-02-18T00:00:00",
-                    "TRANID" => "S70044257",
-                    "PARTICULARS" => "NIP:NAOMI UKAMAKA OCHE-7039463131/7943123278/FINC",
-                    "TRANREMARKS" => "100004250218221459127498305630",
-                    "DR" => null,
-                    "CR" => 5000,
-                    "BALANCE" => 5000,
-                    "PART_TRAN_SRL_NUM" => " 2",
-                    "INSTRMNT_NUM" => null,
-                    "GL_DATE" => "2025-02-19T00:00:00"
                 ]
             ]
         ]);
