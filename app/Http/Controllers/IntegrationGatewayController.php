@@ -182,7 +182,7 @@ class IntegrationGatewayController extends Controller
                     "craccountname" => "FINCRA/Valentine Ihezie",
                     "paymentreference" => "",
                     "bankname" => null,
-                    "sessionid" => "110006250219172205076781120801",
+                    "sessionid" => "100004250218221203127497536974",
                     "craccount" => "7943458595",
                     "bankcode" => "110006",
                     "requestdate" => "2/19/2025 6:22:05 PM",
